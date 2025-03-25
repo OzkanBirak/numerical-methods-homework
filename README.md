@@ -1,6 +1,6 @@
-### numerical-methods-homework
+### Numerical Methods Homework
 
-This repo exist for my Numerical Methods Homeworks.
+This repo exist for my Numerical Methods Homework.
 
 Question:
  
@@ -8,3 +8,5 @@ Question:
         - Take numbers from the user
         - Round up the number 5 digits
         - Find the absolute and relative errors
+
+You can skip configuration files.
